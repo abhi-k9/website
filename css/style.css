@@ -42,6 +42,10 @@ pre code strong {
         font-family: monospace;
         font-size: 110%;
 }
+
+aside blockquote{
+    font-family:Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+    font-size: 110%;
 }
 
 footer {
